@@ -1,5 +1,4 @@
-# introduce
-👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋
+# introduce 👋
 
 Hi, I’m clown, born in Seoul (Korea) in 1985.
 I have been working as a developer since 2011.
@@ -14,5 +13,4 @@ I can manage(Construct, Operate) AWS, Hadoop echo system, docker.
 
 Thank you for read.
 
-👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋
 
