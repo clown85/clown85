@@ -5,7 +5,7 @@ I have been working as a developer since 2011.
 
 I’m interested in everything related to development.
 
-- Programming Language : Java, PHP, Jquery, EMCAscript, NodeJS, Bash script
+- Programming Language : Java, PHP, Jquery, EMCAscript, Python, NodeJS, Bash script
 - DBMS : MySQL, MSSQL
 - OS : CentOS, ubuntu
 
